@@ -29,10 +29,10 @@ Academic dishonesty is any time you purposefully make it difficult to correctly 
 
 - [Completed] Hash Tables
 - [Half Complete ] Queue vs. Stack
-- [ ] Stack.add
-- [ ] Stack.remove
-- [ ] Array.first
-- [ ] Array.last
+- [Attempted] Stack.add
+- [Attempted] Stack.remove
+- [Completed] Array.first
+- [Completed] Array.last
 
 ## Self-Grading Process
 
